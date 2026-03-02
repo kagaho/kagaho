@@ -1,4 +1,4 @@
-# Renato Teixeira (kagaho)
+# Renato Teixeira
 **AI Infrastructure Engineer · AI Security Engineer · Platform Engineer**
 
 I build secure, high-performance AI systems — from GPU-backed inference stacks to retrieval pipelines and security controls around LLMs. I like practical labs, reproducible tooling, and “show-me-the-metrics” debugging.
