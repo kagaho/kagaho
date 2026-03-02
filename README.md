@@ -49,10 +49,3 @@ A few repos I’m proud of (more in pinned projects 👇):
   https://github.com/kagaho/Terraform-Ansible-Automation-Training
 
 ---
-
-## How I like to build
-- ✅ Reproducible: scripts, configs, and “one command per step”
-- ✅ Measured: profiling before opinions
-- ✅ Secure: least privilege for tools, clear boundaries, validation/grounding for outputs
-
----
