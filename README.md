@@ -56,8 +56,3 @@ A few repos I’m proud of (more in pinned projects 👇):
 - ✅ Secure: least privilege for tools, clear boundaries, validation/grounding for outputs
 
 ---
-
-## Collaboration
-If you’re working on **GPU inference**, **RAG quality**, or **AI security**, I’m happy to compare notes, review setups, or collaborate on practical labs.
-
-> Tip: pin your best repos and keep READMEs crisp — recruiters and engineers both love it.
