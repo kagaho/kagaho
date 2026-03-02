@@ -13,7 +13,7 @@ I build secure, high-performance AI systems — from GPU-backed inference stacks
 - **GPU inference stacks** (vLLM / Triton / TensorRT-LLM), profiling + performance tuning (TTFT, throughput, batching)
 - Creating Agentic workflows with **Jetson Thor**, **DGX Spark** and **RTX4090**
 - **RAG systems** with hybrid retrieval (dense + sparse), grounding, and evaluation
-- **Secure AI workflows**: guardrails, prompt-injection resilience, and policy-driven controls around model + tool access
+- **Secure AI workflows**: guardrails, prompt-injection resilience, and policy-driven controls around model + tool access, agent/MCP security
 - **Infrastructure automation**: containers, Kubernetes, Terraform/Ansible, observability
 
 ---
