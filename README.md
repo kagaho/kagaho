@@ -42,11 +42,11 @@ A few repos I’m proud of (more in pinned projects 👇):
 
 - **Training and Hands-on PaloAlto's PRECISION AI - Prisma-AIRS Components**  
   Ongoing Series with AI Network and API intercept, Agent, Model Security and Red Teaming  
-  (See pinned repos)
+  https://github.com/kagaho/PANW-AIRS
 
 - **Hands on training for Terraform and Ansible with PaloAlto VM-Series**  
   Ongoing Series of Day 1 and Day 2 deployments with IaC on Virtual firewalls on cloud and premises  
-  (See pinned repos)
+  https://github.com/kagaho/Terraform-Ansible-Automation-Training
 
 ---
 
