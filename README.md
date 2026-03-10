@@ -1,17 +1,16 @@
 # Renato Teixeira
 **AI Infrastructure Engineer · AI Security Engineer · Platform Engineer**
 
-I build secure, high-performance AI systems — from GPU-backed inference stacks to retrieval pipelines and security controls around LLMs. I like practical labs, reproducible tooling, and “show-me-the-metrics” debugging.
+Creating secure, high-performance AI systems — from GPU-backed inference stacks to retrieval pipelines and security controls around LLMs. I like practical labs, reproducible tooling, and “show-me-the-metrics” debugging.
 
 - 🧠 Focus: **LLM serving & optimization**, **RAG / retrieval quality**, **agentic workflows**, **AI security & runtime controls**
 - 🧰 I work mostly with **local models** and **self-hosted** infra (GPU-first)
 - 📍 Based in Europe (NL)
 
 ---
-
 ## What I’m working on
 - **GPU inference stacks** (vLLM / Triton / TensorRT-LLM), profiling + performance tuning (TTFT, throughput, batching)
-- Creating Agentic workflows with **Jetson Thor**, **DGX Spark** and **RTX4090**
+- Creating Agentic workflows with **L40S**, **Jetson Thor**, **DGX Spark** and **RTX4090**
 - **RAG systems** with hybrid retrieval (dense + sparse), grounding, and evaluation
 - **Secure AI workflows**: guardrails, prompt-injection resilience, and policy-driven controls around model + tool access, agent/MCP security
 - **Infrastructure automation**: containers, Kubernetes, Terraform/Ansible, observability and scaling (Prometheus/Grafana)
