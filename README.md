@@ -1,7 +1,7 @@
 # Renato Teixeira
 **AI Infrastructure Engineer · AI Security Engineer · Platform Engineer**
 
-Creating secure, high-performance AI systems — from GPU-backed inference stacks to retrieval pipelines and security controls around LLMs. I like practical labs, reproducible tooling, and “show-me-the-metrics” debugging.
+Hybrid engineer, capable of planning, designing, and implementing AI projects across both high-level and low-level architecture, with Network and Cybersecurity background. Passionate on creating secure, high-performance AI systems — from GPU-backed inference stacks to retrieval pipelines and security controls around LLMs. I like practical labs, reproducible tooling, and performance debugging.
 
 - 🧠 Focus: **LLM serving & optimization**, **RAG / retrieval quality**, **agentic workflows**, **AI security & runtime controls**
 - 🧰 I work mostly with **local models** and **self-hosted** infra (GPU-first)
@@ -14,6 +14,7 @@ Creating secure, high-performance AI systems — from GPU-backed inference stack
 - **RAG systems** with hybrid retrieval (dense + sparse), grounding, and evaluation
 - **Secure AI workflows**: guardrails, prompt-injection resilience, and policy-driven controls around model + tool access, agent/MCP security
 - **Infrastructure automation**: containers, Kubernetes, Terraform/Ansible, observability and scaling (Prometheus/Grafana)
+- **AI Security**: currently as Escalation Engineer at PaloAlto Networks, specialist on AI Runtime Security, AI API-Intercept, Agent, Model Security, Red Teaming. also specialist on AI Infrastructure with BlueField 2/3 DPUs with Container Firewalls for NIC level L7 inspection on AI Factories. 
 
 ---
 
