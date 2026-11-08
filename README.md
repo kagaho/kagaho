@@ -5,10 +5,11 @@ Hybrid engineer, capable of planning, designing, and implementing AI projects ac
 
 - 🧠 Focus: **LLM serving & optimization**, **RAG / retrieval quality**, **agentic workflows**, **AI security & runtime controls**
 - 🧰 I work mostly with **local models** and **self-hosted** infra (GPU-first)
-- 📍 Based in Europe (NL)
+- 📍 Based in Santa Clara - CA (US)
 
 ---
 ## What I’m working on
+- **Agentic AI evaluation**, Classification, dynamic prompting, DAG, **Graph Engineering**, **RSI**
 - **GPU inference stacks** (vLLM / Triton / TensorRT-LLM), profiling + performance tuning (TTFT, throughput, batching)
 - Creating Agentic workflows with **L40S**, **A10**, **Jetson Thor**, **DGX Spark** and **RTX4090**
 - **RAG systems** with hybrid retrieval (dense + sparse), grounding, and evaluation
@@ -28,6 +29,11 @@ Hybrid engineer, capable of planning, designing, and implementing AI projects ac
 
 ## Featured work
 A few repos I’m proud of (more in pinned projects 👇):
+
+- **jetson-thor-llm-bench**
+  Benchmark harness on qwen3.8 Next, Hybrid, multiple fine tuning
+  profiling for local LLM/VLM inference on NVIDIA Jetson AGX Thor.
+  https://github.com/kagaho/jetson-thor-llm-bench
 
 - **NVIDIA vLLM Serve Llama3-70B (AWQ) on L40S with TP=2**  
   Benchmarking + practical serving notes for multi-GPU inference.  
