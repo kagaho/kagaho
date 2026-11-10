@@ -3,8 +3,8 @@
 
 Hybrid engineer, capable of planning, designing, and implementing AI projects across both high-level and low-level architecture, with Network and Cybersecurity background. Passionate on creating secure, high-performance AI systems — from GPU-backed inference stacks to retrieval pipelines and security controls around LLMs. I like practical labs, reproducible tooling, and performance debugging.
 
-- 🧠 Focus: **LLM serving & optimization**, **RAG / retrieval quality**, **agentic workflows**, **AI security & runtime controls**
-- 🧰 I work mostly with **local models** and **self-hosted** infra (GPU-first)
+- 🧠 Focus: **LLM serving & optimization**, **RAG / retrieval quality**, **agentic workflows**, **AI security & runtime controls**, **Evaluation and Metrics**
+- 🧰 I work with **foundation models**, **local models** and **self-hosted** infra (GPU-first)
 - 📍 Based in Santa Clara - CA (US)
 
 ---
