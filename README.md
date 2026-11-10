@@ -15,7 +15,7 @@ Hybrid engineer, capable of planning, designing, and implementing AI projects ac
 - **RAG systems** with hybrid retrieval (dense + sparse), grounding, and evaluation
 - **Secure AI workflows**: guardrails, prompt-injection resilience, and policy-driven controls around model + tool access, agent/MCP security
 - **Infrastructure automation**: containers, Kubernetes, Terraform/Ansible, observability and scaling (Prometheus/Grafana)
-- **AI Security**: Fromer Escalation Engineer, Currently as Principal Product Manager - Agentic AI at PaloAlto Networks, specialist on AI Runtime Security, AI API-Intercept, Agent, Model Security, Red Teaming. also specialist on AI Infrastructure with BlueField 2/3 DPUs with Container Firewalls for NIC level L7 inspection on AI Factories. 
+- **AI Security**: Currently as Principal Product Manager - Agentic AI - at PaloAlto Networks, specialist on AI Runtime Security, AI API-Intercept, Agent, Model Security, Red Teaming. also specialist on AI Infrastructure with BlueField 2/3 DPUs with Container Firewalls for NIC level L7 inspection on AI Factories. 
 
 ---
 
