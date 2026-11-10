@@ -30,6 +30,12 @@ Hybrid engineer, capable of planning, designing, and implementing AI projects ac
 ## Featured work
 A few repos I’m proud of (more in pinned projects 👇):
 
+- **Soundwave**
+  A self-hosted AI ecosystem combining conversational assistance,
+  voice interaction, remote infrastructure control, GPU inference,
+  MCP-powered tools, and knowledge workflows across a
+  heterogeneous Kubernetes cluster.
+
 - **jetson-thor-llm-bench**
   Benchmark harness on qwen3.8 Next, Hybrid, multiple fine tuning
   profiling for local LLM/VLM inference on NVIDIA Jetson AGX Thor.
