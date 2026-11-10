@@ -46,6 +46,10 @@ A few repos I’m proud of (more in pinned projects 👇):
   Benchmarking + practical serving notes for multi-GPU inference.  
   https://github.com/kagaho/NVIDIA-VLLM_Serve_llama3-70b-awq_on_L40S_with_TP2
 
+- **API Gateway - Blaster** An AI API gateway for retrieval, inference,
+  and agent services, built with NGINX, Apache APISIX, and Vault.
+  https://github.com/kagaho/blaster-gateway
+
 - **NVIDIA GenAI-Perf / Triton performance labs**  
   Measuring and analyzing inference performance with real metrics and repeatable workflows.  
   (See pinned repos)
