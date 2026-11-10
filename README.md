@@ -1,4 +1,4 @@
-# Renato Teixeira
+# Renato Garcia Teixeira
 **AI Infrastructure Engineer · AI Security Engineer · Platform Engineer**
 
 Hybrid engineer, capable of planning, designing, and implementing AI projects across both high-level and low-level architecture, with Network and Cybersecurity background. Passionate on creating secure, high-performance AI systems — from GPU-backed inference stacks to retrieval pipelines and security controls around LLMs. I like practical labs, reproducible tooling, and performance debugging.
