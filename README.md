@@ -35,6 +35,7 @@ A few repos I’m proud of (more in pinned projects 👇):
   voice interaction, remote infrastructure control, GPU inference,
   MCP-powered tools, and knowledge workflows across a
   heterogeneous Kubernetes cluster.
+  https://github.com/kagaho/soundwave
 
 - **jetson-thor-llm-bench**
   Benchmark harness on qwen3.8 Next, Hybrid, multiple fine tuning
