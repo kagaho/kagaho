@@ -11,7 +11,7 @@ Hybrid engineer, capable of planning, designing, and implementing AI projects ac
 ## What I’m working on
 - **Agentic AI evaluation**, Classification, dynamic prompting, DAG, **Graph Engineering**, **RSI**
 - **GPU inference stacks** (vLLM / Triton / TensorRT-LLM), profiling + performance tuning (TTFT, throughput, batching)
-- Creating Agentic workflows with **L40S**, **A10**, **Jetson Thor**, **DGX Spark** and **RTX4090**
+- Creating Agentic workflows with **L40S**, **A10**, **Jetson Thor**, **DGX Spark**, **RTX5090**, **RTX4090**
 - **RAG systems** with hybrid retrieval (dense + sparse), grounding, and evaluation
 - **Secure AI workflows**: guardrails, prompt-injection resilience, and policy-driven controls around model + tool access, agent/MCP security
 - **Infrastructure automation**: containers, Kubernetes, Terraform/Ansible, observability and scaling (Prometheus/Grafana)
