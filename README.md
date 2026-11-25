@@ -50,6 +50,8 @@ A few repos I’m proud of (more in pinned projects 👇):
   and agent services, built with NGINX, Apache APISIX, and Vault.
   https://github.com/kagaho/blaster-gateway
 
+- **colibri-glm53-thor-lab** **Fun testing, not prod** Runing a GLM 5.3 Falsh native int4 on one 128 GB NVIDIA Jetson Thor with Colibri. This study tests Colibri's SSD-backed expert streaming, compares CPU and CUDA, and measures how long you wait for output when the model exceeds RAM.
+
 - **NVIDIA GenAI-Perf / Triton performance labs**  
   Measuring and analyzing inference performance with real metrics and repeatable workflows.  
   (See pinned repos)
